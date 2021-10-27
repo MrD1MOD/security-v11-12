@@ -31,10 +31,10 @@ const dateFormat = require("dateformat");
 var table = require("table").table;
 const Discord = require("discord.js");
 const cmd = require("node-cmd");
-const prefix = "h/";
+const prefix = "PREFIX LERA DBNE";
 const cooldown = new Set()
 const cdtime =5;
-client.login("");
+client.login("TOKEN LERA DABNE");
  client.on("ready", () => {
   console.log(`${client.user.tag}`);
   console.log(`Guilds: ${client.guilds.size}`);
