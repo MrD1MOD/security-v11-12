@@ -39,7 +39,7 @@ client.login("TOKEN LERA DABNE");
   console.log(`${client.user.tag}`);
   console.log(`Guilds: ${client.guilds.size}`);
   console.log(`Users: ${client.users.size}`);
-  client.user.setActivity(`${prefix}help | @Flash Security`, { Type: "Playing" });
+  client.user.setActivity(`${prefix}help | By MrD1MOD`, { Type: "Playing" });
 });
 
 //////
